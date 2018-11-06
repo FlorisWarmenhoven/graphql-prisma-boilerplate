@@ -37,10 +37,10 @@ docker-compose up -d
 Adjust the env files' endpoint to:
 
 ```
-# <project_root>/config/dev.env
+# <project_root>/config/dev.env #
 http://localhost:4466/<project_name>/dev
 
-# <project_root>/config/test.env
+# <project_root>/config/test.env #
 http://localhost:4466/<project_name>/test
 ```
 
